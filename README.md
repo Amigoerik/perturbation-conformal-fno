@@ -145,8 +145,7 @@ Exact numbers may vary slightly across hardware/CUDA/cuDNN versions.
 
 ## Citation
 
-If you use this code, please cite the paper. (Add the final BibTeX entry here
-once the paper has a venue / arXiv number.)
+If you use this code, please cite the paper.
 
 ## License
 
